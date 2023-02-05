@@ -1,4 +1,4 @@
-# ryany3.github.io
+# Market Volatility Simulator
 This is my submission for the BlackRock challenge for UGA Hacks 8 to help casual investors
 understand and visualize market volatility.
 
