@@ -12,5 +12,3 @@ others may cause smaller movements, even leading to different outcomes than one 
 expect. The market isn't always easy to read!
 
 This was written in processing for javascript (p5.js).
-
-Is BlackRock looking for interns by any chance? 😏😏
